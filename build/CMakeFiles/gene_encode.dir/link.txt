@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgene_encode.a  CMakeFiles/gene_encode.dir/src/comp0019lib.c.o CMakeFiles/gene_encode.dir/src/comp0019.c.o CMakeFiles/gene_encode.dir/src/decomp0019.c.o
+/usr/bin/ranlib libgene_encode.a

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anjana/Documents/cw3-cs0019-bit-lzw-AnjanaYEAH-master/src/comp0019.c
+stdlib.h
+-
+stdio.h
+-
+
+/home/anjana/Documents/cw3-cs0019-bit-lzw-AnjanaYEAH-master/src/comp0019lib.c
+comp0019lib.h
+/home/anjana/Documents/cw3-cs0019-bit-lzw-AnjanaYEAH-master/src/comp0019lib.h
+
+/home/anjana/Documents/cw3-cs0019-bit-lzw-AnjanaYEAH-master/src/comp0019lib.h
+
+/home/anjana/Documents/cw3-cs0019-bit-lzw-AnjanaYEAH-master/src/decomp0019.c
+stdlib.h
+-
+stdio.h
+-
+

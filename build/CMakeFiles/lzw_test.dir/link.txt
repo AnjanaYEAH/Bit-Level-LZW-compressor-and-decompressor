@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -g -std=c++11 -pedantic-errors -Winit-self -Woverloaded-virtual -Wuninitialized -Wall -Wextra -fno-exceptions -O0 -fno-omit-frame-pointer  -rdynamic CMakeFiles/lzw_test.dir/src/lzw_test.cc.o  -o lzw_test external/gflags/libgflags_nothreads.a libgene_encode.a 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g -g -std=c11 -pedantic-errors -Winit-self -Wuninitialized -Wall -Wextra -O0 -fno-omit-frame-pointer  -rdynamic CMakeFiles/decode.dir/src/decode.c.o  -o decode libgene_encode.a 
